@@ -1,0 +1,42 @@
+body {
+    background-color: #03001C;
+}
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    font-size: 6rem;
+    font-family: 'Style Script', cursive;
+    text-shadow: 3px 0 whitesmoke;
+    color: #5B8FB9;
+}
+
+p {
+    font-size: 2rem;
+    font-family: cursive ;
+    color: #B6EADA;
+    
+}
+img {
+    width: 80%;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+}
+
+#detail {
+    font-size: 1rem;
+    margin-top: 5%;
+}
